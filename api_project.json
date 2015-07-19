@@ -1,0 +1,1 @@
+{  "name": "Budget app API",  "version": "0.1.0",  "description": "Documentation for Budget app server API",  "title": "Budget app API",  "url": "/api/v1",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2015-07-19T13:19:23.879Z",    "url": "http://apidocjs.com",    "version": "0.13.1"  }}
